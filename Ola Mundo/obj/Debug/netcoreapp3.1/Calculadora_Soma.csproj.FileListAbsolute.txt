@@ -1,0 +1,14 @@
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Calculadora_Soma.exe
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Calculadora_Soma.deps.json
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Calculadora_Soma.runtimeconfig.json
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Calculadora_Soma.runtimeconfig.dev.json
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Calculadora_Soma.dll
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Calculadora_Soma.pdb
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Calculadora_Soma.csproj.AssemblyReference.cache
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Calculadora_Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Calculadora_Soma.AssemblyInfoInputs.cache
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Calculadora_Soma.AssemblyInfo.cs
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Calculadora_Soma.csproj.CoreCompileInputs.cache
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Calculadora_Soma.dll
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Calculadora_Soma.pdb
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Calculadora_Soma.genruntimeconfig.cache

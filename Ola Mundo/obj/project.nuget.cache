@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wp0MATU0L86twolECeTvOI5I5YJHPB4jaYmxd1EeCdT/QzBCD+tKm2iPB8+UcuMTbSrwi0N4rqUx46n/c1PtCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao pedro freitas\\Documents\\progranas c# joao!!!!\\Ola Mundo\\Ola Mundo\\Calculadora_Soma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao pedro freitas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

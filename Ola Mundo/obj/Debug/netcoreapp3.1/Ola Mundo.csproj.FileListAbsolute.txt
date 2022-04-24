@@ -1,0 +1,28 @@
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.exe
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.deps.json
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.runtimeconfig.json
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.runtimeconfig.dev.json
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.dll
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.pdb
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.csproj.AssemblyReference.cache
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.AssemblyInfoInputs.cache
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.AssemblyInfo.cs
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.dll
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.pdb
+C:\Users\joao pedro freitas\source\repos\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.genruntimeconfig.cache
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.exe
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.deps.json
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.runtimeconfig.json
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.runtimeconfig.dev.json
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.dll
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\bin\Debug\netcoreapp3.1\Ola Mundo.pdb
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.csproj.AssemblyReference.cache
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.AssemblyInfoInputs.cache
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.AssemblyInfo.cs
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.dll
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.pdb
+C:\Users\joao pedro freitas\Documents\progranas c# joao!!!!\Ola Mundo\Ola Mundo\obj\Debug\netcoreapp3.1\Ola Mundo.genruntimeconfig.cache
